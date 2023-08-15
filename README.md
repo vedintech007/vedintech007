@@ -1,4 +1,4 @@
-![image](https://github.com/vedintech007/vedintech007/assets/55409753/eaf0852d-82a2-44b9-b835-f62d5510f89b)<h1 align="center">Hi 👋, I'm VED</h1>
+<h1 align="center">Hi 👋, I'm VED</h1>
 <h3 align="center">A passionate self-taught developer</h3>
 
 - 🔭 I’m currently working at **WingiPay**
