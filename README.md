@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **fun and bigger projects**
 
-- ⚡ Fun fact **I enjoy listening to love songs**
+- ⚡ Fun fact **I love animes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
