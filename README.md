@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **WingiPay**
 
-- 🌱 I’m currently learning **Flutter, Swift UI and Django**
+- 🌱 I’m currently learning **Flutter, Kotlin and Django**
 
 - 👯 I’m looking to collaborate on **fun and bigger projects**
 
