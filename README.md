@@ -3,7 +3,7 @@
 
 - 🔭 Currently employed at Codec Technologies
 
-- 🌱 Learning **Flutter, Kotlin, and Django**
+- 🌱 Learning **Flutter, React, and Django**
 
 - 👯 Open to collaborating on **interesting and challenging projects**
 
