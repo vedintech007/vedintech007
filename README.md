@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm VED</h1>
 <h3 align="center">Passionate Self-taught Developer</h3>
 
-- 🔭 Currently employed at Codec Technologies
+- 🔭 Currently employed at WingiPay
 
-- 🌱 Learning **Flutter, React, and Django**
+- 🌱 Learning **Flutter and Django**
 
 - 👯 Open to collaborating on **interesting and challenging projects**
 
