@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm VED</h1>
-<h3 align="center">Passionate Self-taught Developer</h3>
+<h3 align="center">Passionate Software Developer</h3>
 
 - 🔭 Currently employed at WingiPay
 
