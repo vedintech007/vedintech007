@@ -3,7 +3,7 @@
 
 - 🔭 Currently employed at WingiPay
 
-- 🌱 Learning **Flutter and Django**
+- 🌱 Learning **Flutter and Python**
 
 - 👯 Open to collaborating on **interesting and challenging projects**
 
