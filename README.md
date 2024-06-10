@@ -7,7 +7,7 @@
 
 - 👯 Open to collaborating on **interesting and challenging projects**
 
-- ⚡ Fun fact: **I'm a big fan of anime**
+- ⚡ Fun fact: **I'm a big fan of animes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
