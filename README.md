@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm VED</h1>
 <h3 align="center">Passionate Software Developer</h3>
 
-- 🔭 Currently looking forward to greater opportunities and growth
+- 🔭 **Aspiring for Greater Opportunities and Growth**
 
-- 🌱 Currently working with **Flutter, Python and Firebase**
+- 🌱 **Current Stack:** Flutter, Python, and Firebase
 
-- 👯 Open to collaborating on **interesting and challenging projects**
+- 👯 **Collaboration:** Open to interesting and challenging projects
 
-- ⚡ Fun fact: **I'm a big fan of animes**
+- ⚡ **Fun fact:**  I’m a big anime fan!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
