@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm VED</h1>
 <h3 align="center">Passionate Software Developer</h3>
 
-- 🔭 Currently employed at WingiPay
+- 🔭 Currently looking forward to greater opportunities and growth
 
-- 🌱 Learning **Flutter and Python**
+- 🌱 Currently working with **Flutter, Python and Firebase**
 
 - 👯 Open to collaborating on **interesting and challenging projects**
 
