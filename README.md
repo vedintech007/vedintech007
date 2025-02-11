@@ -3,7 +3,7 @@
 
 - 🔭 **Aspiring for Greater Opportunities and Growth**
 
-- 🌱 **Current Stack:** Flutter, Python, and Firebase
+- 🌱 **Current Stack:** Flutter, FastAPI/Flask, and Firebase
 
 - 👯 **Collaboration:** Open to interesting and challenging projects
 
